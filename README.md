@@ -20,7 +20,7 @@ After installing the zip. Head to the build folder, click Windows and then open 
 
 
 ## Screenshots
-![Picture of Gameplay](Game.jpg)
-![Picture of House](House.jpg)
+![Picture of Gameplay](Game.png)
+![Picture of House](House.png)
 
 Developed with Unreal Engine 5.6  
